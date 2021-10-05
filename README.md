@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React/NextJS/Django**
 
-- 👯 I’m looking to collaborate on **Full stack project**
+- 👯 I’m looking to collaborate on a **Full stack project!**
 
 - 📫 How to reach me **somadev@hotmail.co.uk**
 
