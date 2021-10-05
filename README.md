@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<h1 align="center">I'm Josh 👋</h1>
 <h3 align="center">Upcoming Full Stack Developer and Student</h3>
 
 - 🌱 I’m currently learning **React/NextJS/Django**
