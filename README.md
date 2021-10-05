@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Daisy</h1>
-<h3 align="center">Full Stack Python Developer and Student Mentor from Northern Ireland</h3>
+<h1 align="center">Hi 👋, I'm Josh</h1>
+<h3 align="center">Upcoming Full Stack Developer and Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisy-mcg&label=Profile%20views&color=0e75b6&style=flat" alt="daisy-mcg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daisy-mcg" alt="daisy-mcg" /></a> </p>
 
-- 🌱 I’m currently learning **Salesforce Lightning Web Components**
+- 🌱 I’m currently learning **React/NextJS/Django**
 
-- 👯 I’m looking to collaborate on **Django Projects**
+- 👯 I’m looking to collaborate on **Full stack project**
 
-- 📫 How to reach me **daisy.e.j.mcg@gmail.com**
+- 📫 How to reach me **somadev@hotmail.co.uk**
 
-- ⚡ Fun fact **I love coding almost as much as I love motorcycles**
+- ⚡ Fun fact **I love coding almost as much as I love gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
