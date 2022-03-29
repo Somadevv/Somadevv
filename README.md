@@ -1,7 +1,7 @@
 <h1 align="center">I'm Josh 👋</h1>
-<h3 align="center">Upcoming Full Stack Developer and Student</h3>
+<h3 align="center">Upcoming Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React/NextJS/Django**
+- 🌱 I’m currently learning **Redux/JEST unit testing/CI-CD**
 
 - 👯 I’m looking to collaborate on a **Full stack project!**
 
