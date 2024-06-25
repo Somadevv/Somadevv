@@ -1,11 +1,10 @@
 <h1 align="center">I'm Josh 👋</h1>
 <h3 align="center">Upcoming Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Redux/JEST unit testing/CI-CD**
+- 🌱 I’m currently learning **Laravel PHP & MySQL**
 
-- 👯 I’m looking to collaborate on a **Full stack project!**
 
-- 📫 How to reach me **somadev@hotmail.co.uk**
+- 📫 How to reach me **joshhowarth96@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
