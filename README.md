@@ -27,9 +27,8 @@ I focus on creating seamless user experiences with <strong>Vue</strong>, <strong
 ### 📫 How to Reach Me
 - **Email:** [joshhowarth96@gmail.com](mailto:joshhowarth96@gmail.com)  
 - **Portfolio:** [www.joshhowarthdev.com](https://www.joshhowarthdev.com)  
-- **LinkedIn:** [/josh-howarth](https://www.linkedin.com/in/josh-howarth-bb4880201)  
-- **GitHub:** [/Somadevv](https://github.com/Somadevv)
-
+- **LinkedIn:** [/josh-howarth](https://www.linkedin.com/in/josh-howarth-bb4880201)
+  
 ---
 
 ### ⚡ GitHub Stats
